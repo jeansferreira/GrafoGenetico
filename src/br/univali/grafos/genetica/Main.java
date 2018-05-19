@@ -9,6 +9,7 @@
 
 package br.univali.grafos.genetica;
 
+
 import br.univali.grafos.genetica.controller.Controladora;
 import br.univali.grafos.genetica.model.ControlePopulacional;
 import br.univali.grafos.genetica.view.JFrameEntrada;
